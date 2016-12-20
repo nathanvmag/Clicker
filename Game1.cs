@@ -19,7 +19,7 @@ namespace Clicker
         float speed = 4;
         Random rnd = new Random();
         int Score = 0;
-        float Timer = 60;
+        float Timer = 30;
         Texture2D scorebar,timerbar,score,playAgain;
         public Game1()
         {
@@ -44,7 +44,7 @@ namespace Clicker
             ScreenWidth = GraphicsDevice.Viewport.Width;
             ScreenHeight = GraphicsDevice.Viewport.Height;
             Score = 0;
-            Timer = 60;
+            Timer = 30;
             speed = 4;
                 base.Initialize();
         }
@@ -130,7 +130,7 @@ namespace Clicker
                     if(PAgainarea.Contains(mousePosition))
                     {
                         Score = 0;
-                        Timer = 60;
+                        Timer = 30;
                         speed = 4;
                     }
                 }
@@ -161,14 +161,14 @@ namespace Clicker
                 {
                     spriteBatch.Draw(scorebar, new Rectangle(10 + i * 4, 10, 3, 10), Color.White);
                 }
-                int tempsize = Convert.ToInt32((140 * Timer) / 60);
+                int tempsize = Convert.ToInt32((140 * Timer) / 30);
                 spriteBatch.Draw(timerbar, new Rectangle(ScreenWidth - 160, 10, tempsize, 20), Color.White);
             }
             else {
                 spriteBatch.Draw(score, new Rectangle(ScreenWidth/2 -300/2, ScreenHeight/2-150/2-100,300, 150), Color.White);
                 for (int i = 0; i < Score; i++)
                 {
-                    spriteBatch.Draw(scorebar, new Rectangle( ScreenWidth / 2 - 300 / 2+ 12*i -150, ScreenHeight / 2 +100 / 2,9,30), Color.White);
+                    spriteBatch.Draw(scorebar, new Rectangle( ScreenWidth / 2 - 300 / 2+ 7*i -220, ScreenHeight / 2 +100 / 2,5,30), Color.White);
                 }
                 spriteBatch.Draw(playAgain, new Rectangle(ScreenWidth / 2 - 150 / 2, ScreenHeight / 2 - 100 / 2+170, 150, 100), Color.White);
             }           

@@ -58,3 +58,35 @@ C:\Users\henrique.filho\Downloads\Clicker\Clicker\Clicker\bin\Windows\Debug\Cont
 C:\Users\henrique.filho\Downloads\Clicker\Clicker\Clicker\bin\Windows\Debug\Content\timer.png
 C:\Users\henrique.filho\Downloads\Clicker\Clicker\Clicker\bin\Windows\Debug\Content\Score.png
 C:\Users\henrique.filho\Downloads\Clicker\Clicker\Clicker\bin\Windows\Debug\Content\PlayAgain.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\obj\x86\Debug\Clicker.exe
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\obj\x86\Debug\Clicker.pdb
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\Life.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\monster 1.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\monster 2.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\monster 3.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\PlayAgain.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\Score.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Content\timer.png
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Clicker.exe
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\Clicker.pdb
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\nathan.magalhaes\Downloads\Clicker-master\Clicker-master\obj\x86\Debug\Clicker.csprojResolveAssemblyReference.cache
